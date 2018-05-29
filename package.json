@@ -1,5 +1,5 @@
 {
-  "name": "universal-analytics",
+  "name": "@picsio/universal-analytics",
   "version": "0.3.8",
   "description": "A node module for Google's Universal Analytics tracking",
   "main": "index.js",
